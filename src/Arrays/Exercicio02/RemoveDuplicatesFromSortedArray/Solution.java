@@ -1,4 +1,4 @@
-package Exercicio02.RemoveDuplicatesFromSortedArray;
+package Arrays.Exercicio02.RemoveDuplicatesFromSortedArray;
 
 class Solution {
     public int removeDuplicates(int[] nums) {

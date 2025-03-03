@@ -1,4 +1,4 @@
-package Exercicio03.RemoveElement;
+package Arrays.Exercicio03.RemoveElement;
 
 class Solution {
     public int removeElement(int[] nums, int val) {

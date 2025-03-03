@@ -1,4 +1,4 @@
-package Exercicio04.SearchInsertPosition;
+package Arrays.Exercicio04.SearchInsertPosition;
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
